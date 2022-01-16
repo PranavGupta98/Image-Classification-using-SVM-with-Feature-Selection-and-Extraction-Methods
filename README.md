@@ -1,0 +1,2 @@
+# Image-Classification-using-SVM-with-Feature-Selection-and-Extraction-Methods
+Research Project conducted as part of CSC2515 at the University of Toronto. Convulutional Neural Networks are state-of-the-art NN model for image classification, this research investigates whether reducing the number of features can help simpler machine learning methods achieve similar accuracy as CNNs, while reducing the training time and computational power required.
